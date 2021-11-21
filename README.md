@@ -7,7 +7,16 @@ This project aims to develop a chronic kidney disease prediction model to predic
 
 ## Programming Language Used: 
    * Python
-
+## Machine Learning Model Used
+   * RandomForestClassifier
+   * AdaBoostClassifier
+   * GradientBoostingClassifier
+## Accuracy of different models
+  
+   * RandomForestClassifier:     0.97       
+   * AdaBoostClassifier:         0.97    
+   * GradientBoostingClassifier  0.97 
+   
 ## Tools Used:
 * Lucidchart/Draw.io 
 * Anaconda 
