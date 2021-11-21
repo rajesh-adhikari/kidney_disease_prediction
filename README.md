@@ -1,22 +1,22 @@
 ## Kidney-Disease-Prediction
 
 ## Overview
-Chronic kidney disease prediction model using **RandomForestClassifier,AdaBoostClassifier and GradientBoostingClassifier.
+Chronic kidney disease prediction model using RandomForestClassifier,AdaBoostClassifier and GradientBoostingClassifier.
 
 This project aims to develop a chronic kidney disease prediction model to predict whether the given patient is positive or negative for the disease based on training from the given dataset. The algorithms used are artificial neural network and logistic regression.
 
 ## Programming Language Used: 
-   *Python
+   * Python
 
 ## Tools Used:
-*Lucidchart/Draw.io 
-*Anaconda 
-*Jupyter notebook
+* Lucidchart/Draw.io 
+* Anaconda 
+* Jupyter notebook
 
 ## Libraries Used: 
-*Numpy 
-*Pandas
-*Scikit learn
+* Numpy 
+* Pandas
+* Scikit learn
 
 
 
