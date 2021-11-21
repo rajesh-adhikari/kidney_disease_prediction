@@ -1,21 +1,23 @@
 ## Kidney-Disease-Prediction
 
 ## Overview
-This webapp is used for Chronic Kidney Disease Prediction and recommends it, if the patient NEEDS a doctor or NOT. 
+Chronic kidney disease prediction model using **RandomForestClassifier,AdaBoostClassifier and GradientBoostingClassifier.
 
+This project aims to develop a chronic kidney disease prediction model to predict whether the given patient is positive or negative for the disease based on training from the given dataset. The algorithms used are artificial neural network and logistic regression.
 
+## Programming Language Used: 
+   *Python
 
-## TechStack
+## Tools Used:
+*Lucidchart/Draw.io 
+*Anaconda 
+*Jupyter notebook
 
-A list of technologies used within the project:
-* Flask
-* Python
-* ML Models
-* HTML
-* CSS
-* Heruko
-* Numpy/Pandas
-* Sklearn
+## Libraries Used: 
+*Numpy 
+*Pandas
+*Scikit learn
+
 
 
 ## Link to deployed model
