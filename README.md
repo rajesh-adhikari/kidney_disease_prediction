@@ -19,7 +19,7 @@ A list of technologies used within the project:
 
 
 ## Link to deployed model
-
+https://kidneydisease101803118.herokuapp.com/
 
 ## Link to dataset
 
